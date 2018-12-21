@@ -1,0 +1,9 @@
+{
+    "path" : "~/edx_visualizations",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1545008855725.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "533957887",
+    "id" : "B091CD50",
+    "lastKnownWriteTime" : 1545010406,
+    "last_content_update" : 1545010406164,
+    "path" : "~/edx_visualizations/ass.1.datatypes.R",
+    "project_path" : "ass.1.datatypes.R",
+    "properties" : {
+        "cursorPosition" : "8,51",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
